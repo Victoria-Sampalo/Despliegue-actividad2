@@ -17,6 +17,7 @@ function App() {
         >
           Proyecto en react de Victoria Sampalo
         </a>
+        <p>Vamos a hacer una prueba una vez tenemos el yalm</p>
       </header>
     </div>
   );
